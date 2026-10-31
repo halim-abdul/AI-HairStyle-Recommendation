@@ -1,0 +1,448 @@
+[
+  {
+    "id": "textured-crop",
+    "name": "Textured crop",
+    "length": "short",
+    "maintenance": "low",
+    "shapes": [
+      "oval",
+      "round",
+      "square"
+    ],
+    "textures": [
+      "straight",
+      "wavy"
+    ],
+    "description": "A compact cut with a textured top.",
+    "stylist_note": "Discuss fringe length and how much natural texture to retain.",
+    "preview": {
+      "volume": 0.12,
+      "drop": 0.05,
+      "texture": 0.025
+    }
+  },
+  {
+    "id": "crew-cut",
+    "name": "Crew cut",
+    "length": "short",
+    "maintenance": "low",
+    "shapes": [
+      "oval",
+      "square"
+    ],
+    "textures": [
+      "straight",
+      "wavy",
+      "curly",
+      "coily"
+    ],
+    "description": "A short, tidy silhouette with minimal daily styling.",
+    "stylist_note": "Discuss scalp coverage and clipper lengths; frequent trims may be needed.",
+    "preview": {
+      "volume": 0.05,
+      "drop": 0,
+      "texture": 0
+    }
+  },
+  {
+    "id": "side-part",
+    "name": "Side part",
+    "length": "short",
+    "maintenance": "medium",
+    "shapes": [
+      "oval",
+      "round",
+      "heart"
+    ],
+    "textures": [
+      "straight",
+      "wavy"
+    ],
+    "description": "A classic side-directed top with controlled volume.",
+    "stylist_note": "Choose a part that works with your growth pattern.",
+    "preview": {
+      "volume": 0.18,
+      "drop": 0.12,
+      "texture": 0.005
+    }
+  },
+  {
+    "id": "quiff",
+    "name": "Soft quiff",
+    "length": "short",
+    "maintenance": "high",
+    "shapes": [
+      "round",
+      "square",
+      "oval"
+    ],
+    "textures": [
+      "straight",
+      "wavy"
+    ],
+    "description": "An elevated front and shorter sides.",
+    "stylist_note": "Ask how to achieve height with your available styling time.",
+    "preview": {
+      "volume": 0.32,
+      "drop": 0.05,
+      "texture": 0.02
+    }
+  },
+  {
+    "id": "pixie",
+    "name": "Textured pixie",
+    "length": "short",
+    "maintenance": "medium",
+    "shapes": [
+      "oval",
+      "heart",
+      "diamond"
+    ],
+    "textures": [
+      "straight",
+      "wavy",
+      "curly"
+    ],
+    "description": "A short layered shape with flexible fringe options.",
+    "stylist_note": "Discuss face-framing pieces and your preferred ear coverage.",
+    "preview": {
+      "volume": 0.15,
+      "drop": 0.15,
+      "texture": 0.03
+    }
+  },
+  {
+    "id": "curly-taper",
+    "name": "Curly taper",
+    "length": "short",
+    "maintenance": "medium",
+    "shapes": [
+      "oval",
+      "round",
+      "square"
+    ],
+    "textures": [
+      "curly",
+      "coily"
+    ],
+    "description": "Natural texture on top with a tapered outline.",
+    "stylist_note": "Ask about shrinkage and the shape between appointments.",
+    "preview": {
+      "volume": 0.28,
+      "drop": 0.12,
+      "texture": 0.08
+    }
+  },
+  {
+    "id": "short-coils",
+    "name": "Short natural coils",
+    "length": "short",
+    "maintenance": "low",
+    "shapes": [
+      "oval",
+      "heart",
+      "square"
+    ],
+    "textures": [
+      "coily",
+      "curly"
+    ],
+    "description": "A compact rounded silhouette that retains natural texture.",
+    "stylist_note": "Agree on moisturizing and detangling needs.",
+    "preview": {
+      "volume": 0.18,
+      "drop": 0.2,
+      "texture": 0.09
+    }
+  },
+  {
+    "id": "french-crop",
+    "name": "French crop",
+    "length": "short",
+    "maintenance": "medium",
+    "shapes": [
+      "oblong",
+      "oval",
+      "diamond"
+    ],
+    "textures": [
+      "straight",
+      "wavy"
+    ],
+    "description": "A short style with a forward fringe.",
+    "stylist_note": "Discuss fringe weight and hairline comfort.",
+    "preview": {
+      "volume": 0.1,
+      "drop": 0.18,
+      "texture": 0.02
+    }
+  },
+  {
+    "id": "classic-bob",
+    "name": "Classic bob",
+    "length": "medium",
+    "maintenance": "medium",
+    "shapes": [
+      "oval",
+      "heart",
+      "oblong"
+    ],
+    "textures": [
+      "straight",
+      "wavy"
+    ],
+    "description": "A clean outline around the jaw or above the shoulders.",
+    "stylist_note": "Choose the perimeter length before cutting.",
+    "preview": {
+      "volume": 0.1,
+      "drop": 0.95,
+      "texture": 0
+    }
+  },
+  {
+    "id": "layered-bob",
+    "name": "Layered bob",
+    "length": "medium",
+    "maintenance": "medium",
+    "shapes": [
+      "round",
+      "square",
+      "oval"
+    ],
+    "textures": [
+      "straight",
+      "wavy",
+      "curly"
+    ],
+    "description": "A medium silhouette with lighter internal layers.",
+    "stylist_note": "Discuss how layers will fall without heat styling.",
+    "preview": {
+      "volume": 0.19,
+      "drop": 0.85,
+      "texture": 0.03
+    }
+  },
+  {
+    "id": "curly-bob",
+    "name": "Curly bob",
+    "length": "medium",
+    "maintenance": "medium",
+    "shapes": [
+      "oval",
+      "oblong",
+      "heart"
+    ],
+    "textures": [
+      "curly",
+      "coily"
+    ],
+    "description": "A rounded medium cut built around natural curl.",
+    "stylist_note": "Ask for length planning that accounts for shrinkage.",
+    "preview": {
+      "volume": 0.3,
+      "drop": 0.9,
+      "texture": 0.09
+    }
+  },
+  {
+    "id": "shag",
+    "name": "Soft shag",
+    "length": "medium",
+    "maintenance": "high",
+    "shapes": [
+      "square",
+      "diamond",
+      "oval"
+    ],
+    "textures": [
+      "straight",
+      "wavy",
+      "curly"
+    ],
+    "description": "A layered cut with movement and optional fringe.",
+    "stylist_note": "Discuss how short the crown layers should be.",
+    "preview": {
+      "volume": 0.25,
+      "drop": 0.8,
+      "texture": 0.05
+    }
+  },
+  {
+    "id": "curtains",
+    "name": "Curtain layers",
+    "length": "medium",
+    "maintenance": "medium",
+    "shapes": [
+      "heart",
+      "diamond",
+      "oval"
+    ],
+    "textures": [
+      "straight",
+      "wavy"
+    ],
+    "description": "Parted face-framing layers with soft sides.",
+    "stylist_note": "Choose a part and framing length you can maintain.",
+    "preview": {
+      "volume": 0.16,
+      "drop": 0.65,
+      "texture": 0.01
+    }
+  },
+  {
+    "id": "rounded-afro",
+    "name": "Rounded afro",
+    "length": "medium",
+    "maintenance": "medium",
+    "shapes": [
+      "oval",
+      "oblong",
+      "diamond"
+    ],
+    "textures": [
+      "coily",
+      "curly"
+    ],
+    "description": "A rounded natural silhouette with balanced volume.",
+    "stylist_note": "Plan shaping, moisture, and detangling around your routine.",
+    "preview": {
+      "volume": 0.55,
+      "drop": 0.6,
+      "texture": 0.1
+    }
+  },
+  {
+    "id": "shoulder-layers",
+    "name": "Shoulder-length layers",
+    "length": "medium",
+    "maintenance": "low",
+    "shapes": [
+      "oval",
+      "round",
+      "square"
+    ],
+    "textures": [
+      "straight",
+      "wavy",
+      "curly"
+    ],
+    "description": "Layers around shoulder length with flexible styling.",
+    "stylist_note": "Discuss how much bulk to remove without losing fullness.",
+    "preview": {
+      "volume": 0.16,
+      "drop": 1.05,
+      "texture": 0.03
+    }
+  },
+  {
+    "id": "long-layers",
+    "name": "Long layers",
+    "length": "long",
+    "maintenance": "medium",
+    "shapes": [
+      "oval",
+      "round",
+      "square"
+    ],
+    "textures": [
+      "straight",
+      "wavy",
+      "curly"
+    ],
+    "description": "Long lengths with gradual layers.",
+    "stylist_note": "Agree on the shortest layer and the amount of length to keep.",
+    "preview": {
+      "volume": 0.16,
+      "drop": 1.65,
+      "texture": 0.025
+    }
+  },
+  {
+    "id": "long-curls",
+    "name": "Long natural curls",
+    "length": "long",
+    "maintenance": "high",
+    "shapes": [
+      "oval",
+      "heart",
+      "square"
+    ],
+    "textures": [
+      "curly",
+      "coily"
+    ],
+    "description": "Long textured lengths with a shaped outline.",
+    "stylist_note": "Discuss dry length, shrinkage, and detangling time.",
+    "preview": {
+      "volume": 0.38,
+      "drop": 1.6,
+      "texture": 0.09
+    }
+  },
+  {
+    "id": "blunt-long",
+    "name": "Long blunt cut",
+    "length": "long",
+    "maintenance": "low",
+    "shapes": [
+      "oval",
+      "diamond",
+      "heart"
+    ],
+    "textures": [
+      "straight",
+      "wavy"
+    ],
+    "description": "A full, even perimeter with minimal layering.",
+    "stylist_note": "Check whether your density supports the desired perimeter.",
+    "preview": {
+      "volume": 0.08,
+      "drop": 1.7,
+      "texture": 0
+    }
+  },
+  {
+    "id": "face-framing",
+    "name": "Face-framing layers",
+    "length": "long",
+    "maintenance": "medium",
+    "shapes": [
+      "round",
+      "square",
+      "oblong"
+    ],
+    "textures": [
+      "straight",
+      "wavy",
+      "curly"
+    ],
+    "description": "Long layers with shorter sections around the face.",
+    "stylist_note": "Choose framing lengths that suit your styling habits.",
+    "preview": {
+      "volume": 0.22,
+      "drop": 1.5,
+      "texture": 0.025
+    }
+  },
+  {
+    "id": "long-coils",
+    "name": "Layered long coils",
+    "length": "long",
+    "maintenance": "high",
+    "shapes": [
+      "oval",
+      "diamond",
+      "oblong"
+    ],
+    "textures": [
+      "coily"
+    ],
+    "description": "A long coily shape with distributed volume.",
+    "stylist_note": "Discuss shape when dry and your protective nighttime routine.",
+    "preview": {
+      "volume": 0.48,
+      "drop": 1.5,
+      "texture": 0.12
+    }
+  }
+]
